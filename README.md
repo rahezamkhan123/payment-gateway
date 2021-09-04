@@ -3,4 +3,4 @@
 3 - we add payment history
 4 - we add wallet
 5 - we add contact details
-6 - we add 
+6 - we add payment methods
